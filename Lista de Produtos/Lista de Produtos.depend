@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598380243 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\lista de produtos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1598380247 c:\users\renan\onedrive\Área de trabalho\faculdade\programação\lista de produtos\lista.h
+
