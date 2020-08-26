@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1434046196 source:t:\quick\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462230643 source:d:\mauá\estrutura de dados e técnicas de programação\2016\aulas\01 - intrudução à linguagem c\12 - recursividade\buscar pessoa - disitrbuir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591129637 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\busca recursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

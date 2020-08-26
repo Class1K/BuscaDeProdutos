@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1408375242 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\calculadorarpn\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1408375242 c:\users\renan\onedrive\Área de trabalho\faculdade\programação\calculadorarpn\pilha.h
+
+1597181257 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\calculadorarpn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"pilha.h"
+

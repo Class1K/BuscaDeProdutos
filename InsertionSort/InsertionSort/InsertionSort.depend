@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1596573411 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\insertionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1596564007 c:\users\renan\onedrive\Área de trabalho\faculdade\programação\insertionsort\lista.h
+
+1596573190 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\criacaodebibliotecas_insertionsort\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1596564007 c:\users\renan\onedrive\Área de trabalho\faculdade\programação\criacaodebibliotecas_insertionsort\lista.h
+

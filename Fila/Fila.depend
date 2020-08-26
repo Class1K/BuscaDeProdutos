@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1597432336 source:c:\users\renan\onedrive\Área de trabalho\faculdade2020\programação\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1597780303 c:\users\renan\onedrive\Área de trabalho\faculdade2020\programação\fila\fila.h
+
+1597783030 source:c:\users\renan\onedrive\Área de trabalho\faculdade2020\programação\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+

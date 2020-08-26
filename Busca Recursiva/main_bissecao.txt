@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+float f(float x){
+    return sin(x-0.1234);
+}
+
+float Bisseccao(float a, float b){
+    float m = (a+b)/2.0;
+    if (b-a > 1e-6)
+        if (f(a)*f(m) < 0)
+            m = Bisseccao(a,m);
+        else
+            m = Bisseccao(m,b);
+    return m;
+}
+
+int main()
+{
+    float a=0, b=0.2, r;
+    r = Bisseccao(a,b);
+    printf("Raiz: %f", r);
+    return 0;
+}
