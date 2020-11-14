@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1601323964 source:c:\users\renan\onedrive\Área de trabalho\labirinto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1601323964 c:\users\renan\onedrive\Área de trabalho\labirinto\fila.h
+
+1601412377 source:c:\users\renan\onedrive\Área de trabalho\labirinto\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1601323964 c:\users\renan\onedrive\Área de trabalho\labirinto\grafo.h
+
+1601410149 source:c:\users\renan\onedrive\Área de trabalho\labirinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"grafo.h"
+
+1601323964 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\labirinto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1601323964 c:\users\renan\onedrive\Área de trabalho\faculdade\programação\labirinto\fila.h
+
+1601412378 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\labirinto\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1601323964 c:\users\renan\onedrive\Área de trabalho\faculdade\programação\labirinto\grafo.h
+
+1601410150 source:c:\users\renan\onedrive\Área de trabalho\faculdade\programação\labirinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"grafo.h"
+

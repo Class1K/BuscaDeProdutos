@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1597432336 source:c:\users\renan\onedrive\햞ea de trabalho\fila_supermercado\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1597432296 c:\users\renan\onedrive\햞ea de trabalho\fila_supermercado\fila.h
+
+1598992311 source:c:\users\renan\onedrive\햞ea de trabalho\fila_supermercado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"fila.h"
+
+1598923076 c:\users\renan\onedrive\햞ea de trabalho\fila_supermercado\clientes.h
+	"fila.h"
+
